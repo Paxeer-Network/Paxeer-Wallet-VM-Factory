@@ -1,0 +1,40 @@
+{
+  "name": "paxeer-wallet-vm-factory",
+  "version": "1.0.0", 
+  "description": "Factory contract for creating Wallet VMs with gas-efficient minimal proxy clones and reward system",
+  "main": "PaxeerWalletVMFactory.sol",
+  "keywords": [
+    "wallet-factory",
+    "proxy-pattern", 
+    "clone-factory",
+    "minimal-proxy",
+    "ethereum",
+    "solidity", 
+    "defi",
+    "rewards",
+    "network-statistics",
+    "paxeer"
+  ],
+  "author": "Paxeer Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git", 
+    "url": "https://github.com/paxeer/wallet-vm-factory"
+  },
+  "homepage": "https://paxeer.network",
+  "bugs": {
+    "url": "https://github.com/paxeer/wallet-vm-factory/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0"
+  },
+  "files": [
+    "PaxeerWalletVMFactory.sol",
+    "README.md"
+  ]
+}
