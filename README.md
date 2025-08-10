@@ -6,10 +6,10 @@ PaxeerWalletVMFactory is the central factory contract that creates individual sm
 
 ## 📍 Deployment
 
-**Network**: Paxeer Network (Chain ID: 1313161822)  
-**Contract Address**: `0x49E86e35B52369f0e98f14EE23fB430c89d97632`  
+**Network**: Paxeer Network (Chain ID: 80000)  
+**Contract Address**: `0xC86037276DdFD4e6565aF05B267232F72655E82e`  
 **Verification**: ⏳ Pending (requires constructor args)  
-**Implementation**: `0x080eA6E2c009A047B9D6BD0ebfa509926e485D0b`
+**Implementation**: `0xC5002F87e1cb8BC850660Dd4BC63Ff8ab2B5543C`
 
 ## 🎯 Key Features
 
